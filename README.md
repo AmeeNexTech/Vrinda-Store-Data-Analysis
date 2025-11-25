@@ -40,7 +40,6 @@ and promote offers via **Amazon & Flipkart** to maximize sales.
 ## 📁 Project Files
 - `Vrinda Store Data Analysis.xlsx` – Full dataset + dashboard  
 - `dashboard.png` – Screenshot of the Excel dashboard  
-- `insights.png` – Key insights summary
 
 ---
 
